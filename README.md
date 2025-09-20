@@ -2,6 +2,8 @@
 
 O notebook presente no repositório documenta o processo de construção de um modelo de Machine Learning para prever o churn (abandono) de clientes, utilizando o [Customer Churn Dataset](https://www.kaggle.com/datasets/muhammadshahidazeem/customer-churn-dataset).
 
+Link do notebook no colab (permissões de leitor): https://colab.research.google.com/drive/1hOcXRZqfXTlE533ZesVGwe4lTBSniJuU?usp=sharing
+
 ## 1. Introdução
 
 O churn de clientes é um problema crítico para negócios baseados em assinatura. O objetivo é identificar clientes com alta probabilidade de churn para aplicar estratégias de retenção. Este é um problema de classificação supervisionada.
